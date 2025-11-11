@@ -1,0 +1,50 @@
+body{
+  font-family: sans-serif;
+  margin: 0px;
+  background-color:#bdeb34 ;
+}
+header{
+    background-color:#34eb59;
+    padding: 20px;
+    margin: 0;
+}
+a {
+    background-color: red;
+    color:violet;
+    border-radius: 10px;
+    padding:10px;
+    text-decoration: none;
+}
+h1,h3{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size:20px;
+    padding: 15px;
+}
+.img{
+    text-align: center;
+}
+iframe{
+    width:800px;
+    padding: 25px;
+}
+.src {
+    width:400px;
+}
+.cart{
+    text-align: center;
+}
+.sait{
+    text-align: center;
+    
+}
+footer{
+       padding: 20px; 
+    }
